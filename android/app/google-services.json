@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "148005123970",
+    "project_id": "ademonlinemarket",
+    "storage_bucket": "ademonlinemarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148005123970:android:22d3ba147d8e7dddb9419b",
+        "android_client_info": {
+          "package_name": "com.example.kullanicigirisitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148005123970-rol6vj5tul3g1b1d08fnmu5h1mmnjfgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK9ItZU3cS0Xr-BaiRlInB4g-IXMXx75g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148005123970-rol6vj5tul3g1b1d08fnmu5h1mmnjfgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148005123970:android:a85c7d735847c862b9419b",
+        "android_client_info": {
+          "package_name": "com.example.orjinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148005123970-rol6vj5tul3g1b1d08fnmu5h1mmnjfgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK9ItZU3cS0Xr-BaiRlInB4g-IXMXx75g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148005123970-rol6vj5tul3g1b1d08fnmu5h1mmnjfgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
